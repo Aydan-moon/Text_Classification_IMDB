@@ -137,5 +137,5 @@ This project implements a text classification system to categorize IMDB movie re
 - Try ensemble methods combining multiple models for potentially better results.
 
 ## Contact
-For questions or collaboration, please reach out at aydanrzyv@gmail.com.
+For questions or collaboration, please reach out at 📧 aydanrzyv@gmail.com.
 
